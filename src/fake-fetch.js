@@ -4,7 +4,7 @@ function fetch(url) {
       Promise.resolve({
         fullName: "Ron Perris",
         avatar: "https://github.com/ronperris.jpg",
-        twitterURL: "https://twitter.com/ronperris",
+        twitterURL: "javascript:alert(1)",
         facebookURL: "https://facebook.com/ronperris",
         instagramURL: "https://instagram.com/ronperris"
       })
